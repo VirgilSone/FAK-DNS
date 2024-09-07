@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/adcdownload.apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/adcdownload.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
-[/amp-api.media.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/amp-api-updates.apps.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/amp-api.media.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/api-p-ap-c.smoot.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/api-p-ap-d.smoot.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/api-p-ap-e.smoot.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/dd-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/dejavu.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/devstreaming-cdn.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/download.developer.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/experiments.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gs-loc-cn.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gsp5-cn.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gsp85-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
-[/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/gspe19-2-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gspe19-cn-ssl.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gspe19-cn.ls-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/gspe19-cn.ls.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/iphone-ld.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/iphone-ld.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/is1-ssl.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/is1.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/is2-ssl.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/is5-ssl.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/is5.mzstatic.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/itunes-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/itunes.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/itunesconnect.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/music.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/ocsp-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
-[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/ocsp.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/ocsp2-lb.apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/ocsp2.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/oscdn.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/oscdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
