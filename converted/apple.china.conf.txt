@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/cds.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/cdsassets.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
+[/certs.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/cl1-cdn.origin-apple.com.akadns.net/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/cl1.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
 [/cl2-cn.apple.com/]https://223.5.5.5/dns-query https://dns.alidns.com/dns-query tls://dns.alidns.com quic://dns.alidns.com https://doh.pub/dns-query tls://dot.pub https://doh.360.cn/dns-query tls://dot.360.cn
